@@ -4,7 +4,6 @@ Revised on 2021/Aug/11
 
 edit by local PC
 new line 0
-
 make a little difference
 new line 1
 new line 2
